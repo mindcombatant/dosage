@@ -1,0 +1,61 @@
+CHANGES
+=======
+
+* Add Travis-CI deploy script
+* Add StaticSite config and theme
+* Update copyright year
+* Don't span more than 4 threads (because Travis-CI ;))
+* Enable branch coverage (and newer tox features)
+* Update LeastICouldDo (fixes #99)
+* Supported Python versions: 2.7, 3.4, 3.5, 3.6
+* Drop Python 3.3, since py.test doesn't support it anymore
+* Update coverage badge
+* Switch from Coveralls to CodeCov
+* Some minor fixes to make some modules work again
+* Recreate SluggyFreelance module (fixes #96)
+* Only support modern versions of PyCountry
+* Switch development wrapper to Python3
+* deathbulge fix
+* Replace online tests with mocks
+* Don't include cmd script in coverage
+* When testing the command line, call main method
+* Remove handlers after director run
+* Move checking of modules into its own directory
+* Move test dependencies into setup.cfg
+* realised we have a scraper for CMS MenageA3 uses
+* redoing MenageA3 with ParserScraper (previous search regex was broken)
+* added Deathbulge
+* add a comic plugin for CommitStrip
+* Fixing the Menagea3 plugin (#91)
+* Switch test to a comic without robots.txt block
+* Unify more WordPress-based modules
+* Random module fixes
+* Bugfix: StandardError does not exist in Python 3
+* Update GoComics module
+* Fix another set of modules (e, k)
+* Obey the ordering of multi image strips given in the JSON
+* Keep track of the order of images for multi-image strips in the JSON output
+* Some minor style fixes
+* Fix some more modules
+* Remove some broken comics from ComicFury module
+* Fix some SmackJeeves comics
+* Favour the first image we found when we're not expecting multiple images
+* Preserve the order we found images in when removing duplicate images
+* Minor cleanups for new modules (see #84)
+* Add support for SurvivingTheWorld and TumbleDryComics (#84)
+* Fix a bunch of modules
+* [travis] Switch to newer base system
+* Clean up ComicGenesis
+* Add a PyInstaller spec to exclude system DLLs
+* Replace PyInstaller version hack with something better
+* Fix CloneManga modules
+* Move xpath\_class to helpers module
+* Clean up SmackJeeves..
+* Allow setting a crawl delay in update scripts
+* Fix ViiviJaWagner
+* Update list of old and removed modules
+* Some small module fixes
+* Update ComicFury again..
+* Fix PHD with an ugly hack..
+* Update GoComic modules
+* Fix some modules
