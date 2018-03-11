@@ -1,6 +1,7 @@
 CHANGES
 =======
 
+* Only deploy website once
 * Add Travis-CI deploy script
 * Add StaticSite config and theme
 * Update copyright year
@@ -58,4 +59,3 @@ CHANGES
 * Update ComicFury again..
 * Fix PHD with an ugly hack..
 * Update GoComic modules
-* Fix some modules
