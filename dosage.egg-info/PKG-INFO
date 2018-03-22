@@ -1,12 +1,11 @@
-Metadata-Version: 1.2
+Metadata-Version: 2.1
 Name: dosage
 Version: 0.0.1.dev63
 Summary: a comic strip downloader and archiver
 Home-page: http://dosage.rocks/
-Author: Tobias Gruetzmacher
-Author-email: tobias-dosage@23.gs
+Maintainer: Tobias Gruetzmacher
+Maintainer-email: tobias-dosage@23.gs
 License: MIT
-Description-Content-Type: UNKNOWN
 Description: # Dosage
         
         [![Build Status](https://travis-ci.org/webcomics/dosage.svg?branch=master)](https://travis-ci.org/webcomics/dosage)
@@ -142,3 +141,7 @@ Classifier: Programming Language :: Python :: 3.5
 Classifier: Programming Language :: Python :: 3.6
 Classifier: Operating System :: OS Independent
 Requires-Python: >=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*
+Provides-Extra: test
+Provides-Extra: bash
+Provides-Extra: dimensions
+Provides-Extra: css

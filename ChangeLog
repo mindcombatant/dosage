@@ -1,6 +1,7 @@
 CHANGES
 =======
 
+* Use a diferent div class for GoComics (fixes #102)
 * Only deploy website once
 * Add Travis-CI deploy script
 * Add StaticSite config and theme
@@ -58,4 +59,3 @@ CHANGES
 * Some small module fixes
 * Update ComicFury again..
 * Fix PHD with an ugly hack..
-* Update GoComic modules
