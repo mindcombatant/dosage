@@ -1,6 +1,7 @@
 CHANGES
 =======
 
+* GoComics no longer has nav on the comic's home page
 * Use a diferent div class for GoComics (fixes #102)
 * Only deploy website once
 * Add Travis-CI deploy script
@@ -58,4 +59,3 @@ CHANGES
 * Update list of old and removed modules
 * Some small module fixes
 * Update ComicFury again..
-* Fix PHD with an ugly hack..
