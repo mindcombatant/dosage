@@ -1,6 +1,10 @@
 CHANGES
 =======
 
+* MenageA3 naming fix
+* LifeAintNoPontFarm added
+* CyanideAndHappiness fix
+* Handle get\_terminal\_size() returning 0 (fixes #106)
 * GoComics no longer has nav on the comic's home page
 * Use a diferent div class for GoComics (fixes #102)
 * Only deploy website once
@@ -55,7 +59,3 @@ CHANGES
 * Move xpath\_class to helpers module
 * Clean up SmackJeeves..
 * Allow setting a crawl delay in update scripts
-* Fix ViiviJaWagner
-* Update list of old and removed modules
-* Some small module fixes
-* Update ComicFury again..
