@@ -1,6 +1,8 @@
 CHANGES
 =======
 
+* Add windows build to Jenkinsfile
+* Move Jenkins pipeline from Jenkins to repository
 * MenageA3 naming fix
 * LifeAintNoPontFarm added
 * CyanideAndHappiness fix
@@ -58,4 +60,3 @@ CHANGES
 * Fix CloneManga modules
 * Move xpath\_class to helpers module
 * Clean up SmackJeeves..
-* Allow setting a crawl delay in update scripts

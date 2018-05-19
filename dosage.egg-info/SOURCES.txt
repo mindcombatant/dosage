@@ -1,6 +1,7 @@
 AUTHORS
 COPYING
 ChangeLog
+Jenkinsfile
 MANIFEST.in
 README.md
 dosage
