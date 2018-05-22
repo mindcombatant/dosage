@@ -1,6 +1,7 @@
 CHANGES
 =======
 
+* Enable warnings and fix some of them
 * Add windows build to Jenkinsfile
 * Move Jenkins pipeline from Jenkins to repository
 * MenageA3 naming fix
@@ -59,4 +60,3 @@ CHANGES
 * Replace PyInstaller version hack with something better
 * Fix CloneManga modules
 * Move xpath\_class to helpers module
-* Clean up SmackJeeves..
