@@ -1,6 +1,7 @@
 CHANGES
 =======
 
+* Kenneth Reitz’s Code Style™
 * [travis] libjpeg-dev is installed by default
 * Enable warnings and fix some of them
 * Add windows build to Jenkinsfile
@@ -59,4 +60,3 @@ CHANGES
 * Clean up ComicGenesis
 * Add a PyInstaller spec to exclude system DLLs
 * Replace PyInstaller version hack with something better
-* Fix CloneManga modules
