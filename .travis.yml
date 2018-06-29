@@ -4,6 +4,7 @@ python:
   - "3.4"
   - "3.5"
   - "3.6"
+  - "3.7"
 cache: pip
 # install libjpeg-dev for Pillow to handle JPEGs
 dist: trusty
@@ -32,4 +33,4 @@ deploy:
     script: .github/deploy.sh
     on:
       branch: master
-      python: 3.6
+      python: 3.7
