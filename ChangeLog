@@ -1,6 +1,7 @@
 CHANGES
 =======
 
+* Fix (and simplify) GoComics expressions (fixes #117)
 * Kenneth Reitz’s Code Style™
 * [travis] libjpeg-dev is installed by default
 * Enable warnings and fix some of them
@@ -59,4 +60,3 @@ CHANGES
 * [travis] Switch to newer base system
 * Clean up ComicGenesis
 * Add a PyInstaller spec to exclude system DLLs
-* Replace PyInstaller version hack with something better
