@@ -1,3 +1,0 @@
-[console_scripts]
-dosage = dosagelib.cmd:main
-
